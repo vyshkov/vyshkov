@@ -1,4 +1,4 @@
 - :wave: Hi, I am Volodymyr (short form Vova), nice to meet you :shipit: 
-- :raising_hand: I have experience in Java, JavaScript (react, node, nest, etc), AWS cloud
+- :raising_hand: I have experience in Java, JavaScript (react, node, nest, etc), AWS cloud, GCP
 - :books: Conducting trainings related to JavaScript, Algorithms&Datastructures, Systems design, etc.
-- :phone: Will be happy to chat with you via [Linkedin](https://www.linkedin.com/in/vladimir-vyshko-279226a1/ "My page")
+- :phone: Will be happy to chat with you via [Linkedin](https://www.linkedin.com/in/volodymyr-vyshko-279226a1/ "My page")
